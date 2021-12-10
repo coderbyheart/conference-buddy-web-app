@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-conference-tsx",
+    "path": "/second-conference",
+    "result": {"data":{"markdownRemark":{"html":"<p>This is a sort description for this conference</p>","frontmatter":{"city":"Frankfurt","country":"Germany","endDate":"April 12, 2022","path":"/second-conference","startDate":"April 10, 2022","tags":"vue, frontend, testing","title":"Another nice conference!","url":"https://www.conferencebuddy.io/"}}},"pageContext":{}},
+    "staticQueryHashes": []}
